@@ -6,12 +6,6 @@
   <br />
 </div>
 
-  <a href="https://reactjs.org">
-    <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React.js" />
-  </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</div>
 
 <br>
 
