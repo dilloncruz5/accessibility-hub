@@ -15,10 +15,6 @@
   </a>
   <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-   <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel" />
-  </a>
 </div>
 
 <br>
@@ -75,8 +71,7 @@ This project is built with a modern and robust technology stack:
 -   **Framework**: [Next.js](https://nextjs.org/)
 -   **Language**: [TypeScript](https://www.typescriptlang.org/)
 -   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
--   **UI Components**: [Shadcn/UI](https://ui.shadcn.com/)
--   **Deployment**: [Vercel](https://vercel.com/)
+
 
 ---
 
