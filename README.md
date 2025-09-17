@@ -6,12 +6,8 @@
   <br />
 </div>
 
-<div align="center">
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
-  </a>
-  <a href="https://nextjs.org">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <a href="https://reactjs.org">
+    <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React.js" />
   </a>
   <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
