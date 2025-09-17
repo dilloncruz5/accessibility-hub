@@ -81,7 +81,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-Make sure you have [Node.js](https://nodejs.org/en/) and [pnpm](https://pnpm.io/installation) installed.
 
 ```bash
-npm install -g pnpm
+npm install
+npm run dev
