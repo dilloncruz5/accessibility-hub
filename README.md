@@ -58,8 +58,7 @@
 
 This project is built with a modern and robust technology stack:
 
--   **Framework**: [Next.js](https://nextjs.org/)
--   **Language**: [TypeScript](https://www.typescriptlang.org/)
+
 -   **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 
 
