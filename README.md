@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>Accessibility Hub ♿</h1>
+  <h1>Accessibility Hub </h1>
   <strong>A modern suite of digital tools to enhance web accessibility for everyone.</strong>
   <br />
   <br />
