@@ -51,6 +51,13 @@
 ### High-Contrast Color Blind Mode (Light)
 <img width="1919" height="910" alt="High Contrast Mode" src="https://github.com/user-attachments/assets/1265657e-9d45-4ec8-bd65-bca99919fe40" />
 
+### Demo
+
+https://github.com/user-attachments/assets/18400a1c-21d2-41ac-a505-c519bef9a30b
+
+
+
+
 
 ---
 
